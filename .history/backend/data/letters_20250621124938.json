@@ -1,0 +1,13 @@
+[
+  {
+    "letterNo": "DRDO/001",
+    "date": "2025-06-21",
+    "subject": "Test Subject",
+    "role": "Sender",
+    "name": "Dr. A. Sharma",
+    "location": "Delhi HQ",
+    "district": "New Delhi",
+    "fileUrl": "http://localhost:5000/uploads/sample.pdf"
+  }
+]
+// This file contains a sample letter object for testing purposes
